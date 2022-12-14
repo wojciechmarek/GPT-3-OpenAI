@@ -8,7 +8,7 @@ GPT-3 OpenAI website was created to improve my knowledge about creating modern a
 
 ## Screenshot
 
-- Full website:
+![tinywow_Screenshot 2022-12-14 at 16-41-35 React App_9733034](https://user-images.githubusercontent.com/27026036/207647650-853e5372-56bf-4097-bdf9-598648c3ee1b.jpg)
 
 ## Used technologies
 
