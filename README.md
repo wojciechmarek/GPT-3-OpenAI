@@ -1,6 +1,13 @@
 # GPT-3 OpenAI
 
-A sample website of a GPT-3 OpenAI.
+A sample website of a GPT-3 OpenAI. Based on the YouTube tutorial: [Build and Deploy a Fully Responsive Modern UI/UX Website in React JS
+
+JavaScript Mastery
+465 tys. subskrybentów
+
+Subskrybuj
+
+](https://www.youtube.com/watch?v=LMagNcngvcU)
 
 ## Purpose
 
